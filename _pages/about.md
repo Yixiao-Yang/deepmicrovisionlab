@@ -1,20 +1,28 @@
-Deep MicroVision Lab
+---
+layout: archive
+title: "Deep MicroVision Lab"
+permalink: /
+author_profile: true
+---
 
-The Deep MicroVision Lab at Beijing Institute of Technology develops
-theoretical foundations and computational methods for next-generation
-microscopy and imaging systems.
+Welcome to the **Deep MicroVision Lab** at Beijing Institute of Technology.
 
-Our research integrates signal processing, machine learning, and
-computational imaging to address fundamental challenges in
-high-resolution imaging under extreme noise and limited measurements.
+The Deep MicroVision Lab develops theoretical foundations and computational
+methods for next-generation microscopy and imaging systems.
 
-Current research focuses include:
+Our research integrates signal processing, machine learning, and computational
+imaging to address fundamental challenges in high-resolution imaging under
+extreme noise and limited measurements.
 
-• Cryo-electron microscopy reconstruction
-• Phase retrieval and inverse problems
-• Computational microscopy
-• Physics-informed deep learning
-• Imaging under low-dose and photon-limited conditions
+## Research Areas
 
-We aim to push the limits of imaging resolution, robustness, and efficiency
-for scientific discovery and biomedical applications.
+- Cryo-electron microscopy reconstruction
+- Phase retrieval and inverse problems
+- Computational microscopy
+- Physics-informed deep learning
+- Imaging under low-dose conditions
+
+## Join Us
+
+We are actively recruiting motivated students and research assistants.
+Interested candidates are encouraged to contact Dr. Yixiao Yang.
