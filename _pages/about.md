@@ -5,34 +5,21 @@ permalink: /
 author_profile: true
 ---
 
-Welcome to the **Deep MicroVision Lab** at Beijing Institute of Technology.
+Welcome to the **Deep MicroVision Lab** at **Beijing Institute of Technology (BIT)**.
 
-The Deep MicroVision Lab develops theoretical foundations and computational methods for next-generation microscopy and imaging systems.
+We develop **theoretical foundations** and **computational methods** for next-generation microscopy and imaging systems.  
+Our work integrates **signal processing**, **machine learning**, and **computational imaging** to enable high-resolution reconstruction under **extreme noise** and **limited measurements**.
 
-Our research integrates signal processing, machine learning, and computational imaging to address fundamental challenges in high-resolution imaging under extreme noise and limited measurements.
+## Research Highlights
+- **Cryo-electron microscopy (cryo-EM)**: phase recovery and reconstruction under low-dose imaging conditions  
+- **Computational microscopy**: lens-free and phase imaging, physical forward modeling  
+- **Inverse problems & learning**: physics-informed deep learning, optimization-inspired networks  
+- **Photon-/dose-limited imaging**: robust algorithms and uncertainty-aware inference
 
-## Research Areas
-
-### Cryo-Electron Microscopy
-Phase retrieval and reconstruction under low-dose imaging conditions.
-
-### Computational Microscopy
-Lens-free imaging and computational phase imaging.
-
-### Inverse Problems and Learning
-Physics-informed deep learning and optimization methods.
-
-### Imaging under Low-Dose Conditions
-Algorithms for photon-limited and noisy imaging.
+## News
+- (2026-xx) Deep MicroVision Lab website is launched.
+- (Add your recent awards / projects / accepted papers here.)
 
 ## Join Us
-
-We are actively recruiting motivated students with backgrounds in:
-
-- Signal Processing
-- Machine Learning
-- Applied Mathematics
-- Physics
-- Electronic Engineering
-
-Please email your CV and transcript to Dr. Yixiao Yang (yangyixiao@bit.edu.cn).
+We are actively recruiting **PhD students, Master students, and research assistants**.  
+If you are interested, please contact **Dr. Yixiao Yang** (yangyixiao@bit.edu.cn) via email with your **CV** and a brief description of your research interests.
