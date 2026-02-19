@@ -11,14 +11,13 @@ We develop **theoretical foundations** and **computational methods** for next-ge
 Our work integrates **signal processing**, **machine learning**, and **computational imaging** to enable high-resolution reconstruction under **extreme noise** and **limited measurements**.
 
 ## Research Highlights
-- **Cryo-electron microscopy (cryo-EM)**: phase recovery and reconstruction under low-dose imaging conditions  
+- **Cryo-electron microscopy (cryo-EM)**: phase retrieval and reconstruction under low-dose imaging conditions  
 - **Computational microscopy**: lens-free and phase imaging, physical forward modeling  
 - **Inverse problems & learning**: physics-informed deep learning, optimization-inspired networks  
 - **Photon-/dose-limited imaging**: robust algorithms and uncertainty-aware inference
 
 ## News
-- (2026-xx) Deep MicroVision Lab website is launched.
-- (Add your recent awards / projects / accepted papers here.)
+- (2026-02) Deep MicroVision Lab website is launched.
 
 ## Join Us
 We are actively recruiting **PhD students, Master students, and research assistants**.  
