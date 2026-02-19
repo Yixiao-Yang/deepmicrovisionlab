@@ -22,7 +22,7 @@ repository: "Yixiao-Yang/deepmicrovisionlab"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "YixiaoYang.jpg"
+  avatar           : "/images/YixiaoYang.jpg"
   name             : "Yixiao Yang（杨义校）"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
