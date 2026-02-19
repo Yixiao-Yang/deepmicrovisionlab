@@ -2,6 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
+author_profile: true
 ---
 
 Our research focuses on the intersection of **computational imaging**, **signal processing**, and **machine learning**.
