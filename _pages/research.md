@@ -8,10 +8,10 @@ author_profile: true
 Our research focuses on the intersection of **computational imaging**, **signal processing**, and **machine learning**.
 
 ## 1) Cryo-Electron Microscopy Reconstruction
-We study phase recovery and reconstruction under low-dose imaging conditions, aiming to improve robustness and enable higher-resolution structural biology.
+We study computational phase retrieval and reconstruction under low-dose imaging conditions, aiming to improve robustness and enable higher-resolution structural biology.
 
 **Topics**
-- phase recovery / phase retrieval for cryo-EM micrographs and movies  
+- computational phase retrieval for cryo-EM micrographs and movies  
 - modeling CTF effects and zero-crossings  
 - noise-aware reconstruction and uncertainty quantification  
 
