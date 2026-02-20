@@ -11,11 +11,15 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Deep MicroVision Lab"
 title_separator          : "-"
-name                     : &name "Deep MicroVision Lab"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+title: "Deep MicroVision Lab"
+name: "Deep MicroVision Lab"
+description: "Deep MicroVision Lab at Beijing Institute of Technology"
+
 url: "https://yixiao-yang.github.io"
-baseurl: "/deepmicrovision.github.io"
-repository: "Yixiao-Yang/deepmicrovision.github.io"
+baseurl: "/deepmicrovisionlab"
+
+repository: "Yixiao-Yang/deepmicrovisionlab"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
