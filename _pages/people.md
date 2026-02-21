@@ -31,12 +31,12 @@ Beijing Institute of Technology
 # 🎓 PhD Students
 
 ## 杨小冬  
-PhD Student, Deep MicroVision Lab  
-Research: (To be updated)
+PhD Student, Co-supervised by Professor Ran Tao 
+Research: Cryo-electron microscopy image processing based on diffusion model
 
 ## 张志怡  
-PhD Student, Deep MicroVision Lab  
-Research: (To be updated)
+PhD Student, Co-supervised by Professor Ran Tao  
+Research: Single-shot phase retrieval based on deep all-in-one model
 
 *(We are actively recruiting additional PhD students.)*
 
@@ -45,16 +45,16 @@ Research: (To be updated)
 # 🎓 Master Students
 
 ## 陈龙  
-Master Student, Deep MicroVision Lab  
-Research: (To be updated)
+Master Student, Co-supervised by Professor Ran Tao  
+Research: Complex field data construction and single-shot complex phase retrieval
 
 ## 陈旭  
-Master Student, Deep MicroVision Lab  
-Research: (To be updated)
+Master Student, Co-supervised by Professor Ran Tao  
+Research: Fractional domain high spatiotemporal resolution computational lensless microscopy
 
 ## 刘昊元  
-Master Student, Deep MicroVision Lab  
-Research: (To be updated)
+Master Student, Co-supervised by Professor Ran Tao  
+Research: Fractional Fourier near-field ptychography imaging
 
 ---
 
