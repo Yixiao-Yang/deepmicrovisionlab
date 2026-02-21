@@ -17,7 +17,7 @@ Publications of the **Deep MicroVision Lab** focus on cryo-electron microscopy, 
 
 ## 2026
 
-**Chuangxi Chen**, Zhuang Zhou*, Xudong Zhao, **Yixiao Yang**, Xin Zhang, Ran Tao, Binghua Su.  
+Chuangxi Chen, Zhuang Zhou* , Xudong Zhao, **Yixiao Yang**, Xin Zhang, Ran Tao, Binghua Su.  
 **Dual-Domain Fractional Fourier Transformer for Underwater Image Degradation Removal**.  
 *IEEE Signal Processing Letters*, 2026.  
 [[DOI]](https://doi.org/10.1109/lsp.2026.3660912)
@@ -26,12 +26,12 @@ Publications of the **Deep MicroVision Lab** focus on cryo-electron microscopy, 
 
 ## 2025
 
-**Xudong Zhao**, Qi Ming*, **Yixiao Yang***, Wenshuai Hu, Wei Li, Ran Tao.  
+Xudong Zhao, Qi Ming* , **Yixiao Yang**, Wenshuai Hu, Wei Li, Ran Tao.  
 **Chirplet Fourier Analysis Network for Cross-Scene Classification of Multisource Remote Sensing Data**.  
 *IEEE Transactions on Geoscience and Remote Sensing*, 2025.  
 [[DOI]](https://doi.org/10.1109/tgrs.2025.3638009)
 
-Zhiyi Zhang, **Yixiao Yang***, Xudong Zhao, Ran Tao*.  
+Zhiyi Zhang, **Yixiao Yang* **, Xudong Zhao, Ran Tao*.  
 **Deep Physically Parameterized All-in-One Network for Lens-Free Microscopy Imaging**.  
 *IEEE Journal of Selected Topics in Signal Processing*, 2025.  
 [[DOI]](https://doi.org/10.1109/jstsp.2025.3620707)
