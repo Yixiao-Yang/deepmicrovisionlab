@@ -26,17 +26,17 @@ Chuangxi Chen, Zhuang Zhou* , Xudong Zhao, **Yixiao Yang**, Xin Zhang, Ran Tao, 
 
 ## 2025
 
-Xudong Zhao, Qi Ming* , **Yixiao Yang** * , Wenshuai Hu, Wei Li, Ran Tao.  
+Xudong Zhao, Qi Ming* , **Yixiao Yang*** , Wenshuai Hu, Wei Li, Ran Tao.  
 **Chirplet Fourier Analysis Network for Cross-Scene Classification of Multisource Remote Sensing Data**.  
 *IEEE Transactions on Geoscience and Remote Sensing*, 2025.  
 [[DOI]](https://doi.org/10.1109/tgrs.2025.3638009)
 
-Zhiyi Zhang, **Yixiao Yang*** , Xudong Zhao, Ran Tao*.  
+Zhiyi Zhang, **Yixiao Yang*** , Xudong Zhao, Ran Tao* .  
 **Deep Physically Parameterized All-in-One Network for Lens-Free Microscopy Imaging**.  
 *IEEE Journal of Selected Topics in Signal Processing*, 2025.  
 [[DOI]](https://doi.org/10.1109/jstsp.2025.3620707)
 
-Xiaodong Yang, **Yixiao Yang***, Ziyang Li, Zhengjun Liu, Ran Tao*.  
+Xiaodong Yang, **Yixiao Yang*** , Ziyang Li, Zhengjun Liu, Ran Tao* .  
 **Blind Single-Shot Phase Retrieval Based on a Self-Supervised Physics-Adaptive Neural Network**.  
 *Optics Express*, 2025.  
 [[DOI]](https://doi.org/10.1364/oe.559847)
@@ -45,17 +45,17 @@ Xiaodong Yang, **Yixiao Yang***, Ziyang Li, Zhengjun Liu, Ran Tao*.
 
 ## 2024
 
-**Yixiao Yang**, Ran Tao*, Kaixuan Wei, Jun Shi.  
+**Yixiao Yang**, Ran Tao* , Kaixuan Wei, Jun Shi.  
 **Single-Shot Phase Retrieval From a Fractional Fourier Transform Perspective**.  
 *IEEE Transactions on Signal Processing*, 2024.  
 [[DOI]](https://doi.org/10.1109/tsp.2024.3423784)
 
-**Yixiao Yang**, Ziyang Li, Xiaodong Yang, Zhengjun Liu, Ran Tao*.  
+**Yixiao Yang**, Ziyang Li, Xiaodong Yang, Zhengjun Liu, Ran Tao* .  
 **Snapshot Coherent Diffraction Imaging via a Physics-Embedded Untrained Neural Network**.  
 *Optics Letters*, 2024.  
 [[DOI]](https://doi.org/10.1364/ol.537909)
 
-Jinming Ma, **Yixiao Yang**, Ran Tao*, Gang Li*, Chang Gao.  
+Jinming Ma, **Yixiao Yang**, Ran Tao* , Gang Li, Chang Gao.  
 **Spectrum Analysis for Nonuniform Sampling of Bandlimited and Multiband Signals in the Fractional Fourier Domain**.  
 *Signal Processing*, 2024.  
 [[DOI]](https://doi.org/10.1016/j.sigpro.2024.109539)
@@ -64,7 +64,7 @@ Jinming Ma, **Yixiao Yang**, Ran Tao*, Gang Li*, Chang Gao.
 
 ## 2022
 
-**Yixiao Yang**, Ran Tao*, Kaixuan Wei, Ying Fu.  
+**Yixiao Yang**, Ran Tao* , Kaixuan Wei, Ying Fu.  
 **Dynamic Proximal Unrolling Network for Compressive Imaging**.  
 *Neurocomputing*, 2022.  
 [[DOI]](https://doi.org/10.1016/j.neucom.2022.08.034)
@@ -75,17 +75,17 @@ Jinming Ma, **Yixiao Yang**, Ran Tao*, Gang Li*, Chang Gao.
 
 ## 2025
 
-**Yixiao Yang**, Joel Yeo, Yong Zi Tan, N. Duane Loh*.  
+**Yixiao Yang**, Joel Yeo, Yong Zi Tan, N. Duane Loh* .  
 **Can Computational Phase Retrieval Help 2D Classification in Cryo-EM?**  
 ScienceOpen / APMC, 2025.  
 [[DOI]](https://doi.org/10.14293/APMC13-2025-0390)
 
-Joel Yeo, **Yixiao Yang**, Benedikt J. Daurer, Deepan Balakrishnan, N. Duane Loh*.  
+Joel Yeo, **Yixiao Yang**, Benedikt J. Daurer, Deepan Balakrishnan, N. Duane Loh* .  
 **Reaching the Limits of Phase Contrast in Transmission Electron Microscopy: Bridging the Theory–Experiment Gap With Physics-Informed Neural Networks**.  
 ScienceOpen / APMC, 2025.  
 [[DOI]](https://doi.org/10.14293/APMC13-2025-0304)
 
-Xin Zhang, Zhuang Zhou*, **Yixiao Yang**, Haijun Xie, Haowen Yan, Hexiang Zhai, Binghua Su.  
+Xin Zhang, Zhuang Zhou* , **Yixiao Yang**, Haijun Xie, Haowen Yan, Hexiang Zhai, Binghua Su.  
 **Self-Supervised Underwater Color Restoration via Wavelet-Diffusion Model**.  
 SIGGRAPH Asia 2025.
 
@@ -93,15 +93,15 @@ SIGGRAPH Asia 2025.
 
 ## 2024
 
-Wen-Xiu Dong, Hong-Tao Wei, Ming-Feng Lu*, Jin Hu, Yan Zhang, Yi-Xiao Yang, Jin-Min Wu, Feng Zhang, Ran Tao.  
+Wen-Xiu Dong, Hong-Tao Wei, Ming-Feng Lu* , Jin Hu, Yan Zhang, Yi-Xiao Yang, Jin-Min Wu, Feng Zhang, Ran Tao.  
 **Measuring the Spherical Curvature Radius Based on Optical Fractional Fourier Transform**.  
 CLEO 2024.
 
-Zhiyi Zhang, **Yixiao Yang**, Ran Tao*.  
+Zhiyi Zhang, **Yixiao Yang**, Ran Tao* .  
 **Real-Time Snapshot Fractional Fourier Phase Retrieval via Deep Unfolding Network**.  
 SPIE Optical Imaging, 2024.
 
-Haihao Zhang, **Yixiao Yang**, Meng Lv*, Wei Li, Ran Tao.  
+Haihao Zhang, **Yixiao Yang**, Meng Lv* , Wei Li, Ran Tao.  
 **TV-Enhanced Deep Unfolding Network for Multispectral Image Demosaicing**.  
 SPIE Optical Imaging, 2024.
 
@@ -109,7 +109,7 @@ SPIE Optical Imaging, 2024.
 
 ## 2023
 
-**Yixiao Yang**, Ran Tao.  
+**Yixiao Yang**, Ran Tao* .  
 **Single-Shot Fractional Fourier Phase Retrieval**.  
 ICASSP 2023.  
 [[DOI]](https://doi.org/10.1109/icassp49357.2023.10095976)
@@ -118,7 +118,7 @@ ICASSP 2023.
 
 ## 2022
 
-Na Liu, Yinjian Wang, **Yixiao Yang**, Wei Li*, Ran Tao.  
+Na Liu, Yinjian Wang, **Yixiao Yang**, Wei Li* , Ran Tao.  
 **Retinex-Based Low-Light Hyperspectral Restoration Using Camera Response Model**.  
 IGARSS 2022.  
 [[DOI]](https://doi.org/10.1109/igarss46834.2022.9884021)
