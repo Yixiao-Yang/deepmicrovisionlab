@@ -17,7 +17,7 @@ Our work integrates **signal processing**, **machine learning**, and **computati
 - **Photon-/dose-limited imaging**: robust algorithms and uncertainty-aware inference
 
 ## News
-- (2026-04) AI4X Accepted × 4 | New Advances in Cryo-EM Image Processing Research.
+- (2026-04) AI4X 2026 Accepted × 4: New Advances in Cryo-EM Image Processing Research.
 - (2026-02) Deep MicroVision Lab website is launched.
 
 ## Join Us
