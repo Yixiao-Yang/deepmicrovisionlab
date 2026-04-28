@@ -73,6 +73,13 @@ Jinming Ma, **Yixiao Yang**, Ran Tao* , Gang Li, Chang Gao.
 # Conference Papers
 
 ## 2025
+**Yixiao Yang**, Joel Yeo, Yong Zi Tan, N. Duane Loh* .  
+**Physics-informed neural network for single-shot phase retrieval in cryo-EM**  
+AI4X International Conference, 2025.  
+
+Deepan Balakrishnan, Joel Yeo, **Yixiao Yang**, T Bepler, N. Duane Loh* .  
+**Physics-Informed Automatic Differentiation for Single-Shot Nanoscale 3D Imaging in In Situ Transmission Electron Microscopy**.  
+AI4X International Conference, 2025.  
 
 **Yixiao Yang**, Joel Yeo, Yong Zi Tan, N. Duane Loh* .  
 **Can Computational Phase Retrieval Help 2D Classification in Cryo-EM?**  
