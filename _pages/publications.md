@@ -81,7 +81,7 @@ Xu Chen, **Yixiao Yang*** , Ran Tao* .
 **An Aliasing-Free Scalable Diffraction Model Based on the Fractional Fourier Transform**.  
 CLEO-PR, 2026. 
 
-Xiaodong Yang, **Yixiao Yang**, Joel Yeo, N. Duane Loh* .  
+Xiaodong Yang, **Yixiao Yang*** , Joel Yeo, N. Duane Loh* .  
 **Single-Shot Phase Retrieval in Cryo–EM via Latent Conditional Diffusion Model**  
 AI4X Accelerate Conference, 2026. 
 
