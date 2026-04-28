@@ -72,6 +72,23 @@ Jinming Ma, **Yixiao Yang**, Ran Tao* , Gang Li, Chang Gao.
 
 # Conference Papers
 
+## 2026
+Xiaodong Yang, **Yixiao Yang**, Joel Yeo, N. Duane Loh* .  
+**Single-Shot Phase Retrieval in Cryo–EM via Latent Conditional Diffusion Model**  
+AI4X Accelerate Conference, 2026. 
+
+Rongtao Zhang, **Yixiao Yang**, Joel Yeo, N. Duane Loh* .  
+**Flow-Matching-Based Posterior Sampling for Single-Shot Phase Retrieval in Cryo-EM**.  
+AI4X Accelerate Conference, 2026. 
+
+Ziyue Jiang, **Yixiao Yang**, Joel Yeo, N. Duane Loh* .  
+**Simulation-to-Real Alignment for Cryo-EM Image Modeling via Conditional GAN-Based Refinement**  
+AI4X Accelerate Conference, 2026. 
+
+Yong Ming Da, Joel Yeo, **Yixiao Yang**, N. Duane Loh* .  
+**CryoEM 2D classification with translational and rotational invariant features**.  
+AI4X Accelerate Conference, 2026. 
+
 ## 2025
 **Yixiao Yang**, Joel Yeo, Yong Zi Tan, N. Duane Loh* .  
 **Physics-informed neural network for single-shot phase retrieval in cryo-EM**  
