@@ -18,8 +18,8 @@ Our work integrates **signal processing**, **machine learning**, and **computati
 
 ## News
 - (2026-05) IEEE ICIP 2026 Accepted × 1: New Advances in Fractional Fourier Ptychography. Congratulations to Haoyuan! 🎉
-- (2026-05) CLEO-PR 2026 Accepted × 2: New Advances in Optical Simulation and Image Reconstruction Algorithms.
-- (2026-04) AI4X 2026 Accepted × 4: New Advances in Cryo-EM Image Processing Research.
+- (2026-05) CLEO-PR 2026 Accepted × 2: New Advances in Optical Simulation and Image Reconstruction Algorithms. Congratulations to Chen Long and Chen Xu! 🎉
+- (2026-04) AI4X 2026 Accepted × 4: New Advances in Cryo-EM Image Processing Research. Congratulations to Xiaodong, Rongtao, Ziyue, and Mingda! 🎉
 - (2026-02) Deep MicroVision Lab website is launched.
 
 ## Join Us
