@@ -73,6 +73,10 @@ Jinming Ma, **Yixiao Yang**, Ran Tao* , Gang Li, Chang Gao.
 # Conference Papers
 
 ## 2026
+Haoyuan Liu, **Yixiao Yang*** , Zhiyi Zhang, Ran Tao* .  
+**Fractional Fourier Near-Field Ptychography**  
+IEEE ICIP, 2026. 
+
 Long Chen, **Yixiao Yang*** , Ziyang Li, Zhengjun Liu, Ran Tao* .  
 **Learned Complex-valued Dataset Construction for Single-Shot Phase Retrieval**  
 CLEO-PR, 2026. 
