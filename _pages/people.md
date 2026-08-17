@@ -38,6 +38,10 @@ Research: Cryo-electron microscopy image processing based on diffusion model
 PhD Student, Co-supervised by Professor Ran Tao  
 Research: Single-shot phase retrieval based on deep all-in-one model
 
+## 杨文卓  
+PhD Student, Co-supervised by Professor Ran Tao  
+Research: Computational Microscopic Hyperspectral Imaging Method
+
 *(We are actively recruiting additional PhD students.)*
 
 ---
@@ -55,6 +59,14 @@ Research: Fractional domain high spatiotemporal resolution computational lensles
 ## 刘昊元  
 Master Student, Co-supervised by Professor Ran Tao  
 Research: Fractional Fourier near-field ptychography imaging
+
+## 王晓楠 
+Master Student, Co-supervised by Professor Ran Tao  
+Research: Portable Computational Microscopy Imaging Method
+
+## 冯天豪  
+Master Student, Co-supervised by Professor Ran Tao  
+Research: Unpaired image translation technology
 
 ---
 
