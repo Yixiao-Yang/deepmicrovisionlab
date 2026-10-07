@@ -17,6 +17,8 @@ Our work integrates **signal processing**, **machine learning**, and **computati
 - **Photon-/dose-limited imaging**: robust algorithms and uncertainty-aware inference
 
 ## News
+- (2026-09) Selected for the Chinese Institute of Electronics' Young Talent Support Program! 🎉
+- (2026-08) Awarded a National Natural Science Foundation of China (NSFC) grant for young scholars (Category C)! 🎉
 - (2026-05) IEEE ICIP 2026 Accepted × 1: New Advances in Fractional Fourier Ptychography. Congratulations to Haoyuan! 🎉
 - (2026-05) CLEO-PR 2026 Accepted × 2: New Advances in Optical Simulation and Image Reconstruction Algorithms. Congratulations to Chen Long and Chen Xu! 🎉
 - (2026-04) AI4X 2026 Accepted × 4: New Advances in Cryo-EM Image Processing Research. Congratulations to Xiaodong, Rongtao, Ziyue, and Mingda! 🎉
